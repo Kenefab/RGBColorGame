@@ -1,2 +1,2 @@
-# ColorGame
+#RGBColorGame
  RGB color picker game
